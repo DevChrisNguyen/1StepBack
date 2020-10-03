@@ -1,2 +1,3 @@
 # 1StepBack
-Test Repository for Learning
+Test Repository used to become
+a Git Hub Guru!
